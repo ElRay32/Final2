@@ -36,7 +36,7 @@
     </section>
   </div>
 
-  <script src="../js/usuarios.js"></script>
+  <script src="js/usuarios.js"></script>
 
 </body>
 </html>
